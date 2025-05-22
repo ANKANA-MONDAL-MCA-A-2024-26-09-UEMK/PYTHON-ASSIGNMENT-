@@ -12,3 +12,15 @@ Beginner Level : -
 9.Write a Python program to take a string as input and display the reversed version of the string.
 10.Write a Python program to check if the entered string is a palindrome (reads the same forward and backward).
 
+Intermediate Level :-
+
+1.Write a Python program to calculate the sum of all digits of a given number (including handling negative numbers).
+2.Write a Python program to print the first n terms of the Fibonacci series using a loop.
+3.Write a Python program to check whether a given number is a prime number or not.
+4.Write a Python program to count and display the frequency of each character in a given string.
+5.Write a Python program to find and print all the factors of a given number.
+6.Write a Python program to remove duplicate elements from a list and display the unique elements.
+7.Write a Python program to check whether a given number is an Armstrong number or not.
+8.Write a Python program using list comprehension to create a new list containing the squares of all even numbers from a given list.
+9.Write a Python program to find the second largest number in a given list of integers.
+10.Write a Python program to check whether a given list is a palindrome (i.e., it reads the same forward and backward).
