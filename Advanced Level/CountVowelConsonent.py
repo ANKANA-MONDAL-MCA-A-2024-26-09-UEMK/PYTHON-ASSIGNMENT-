@@ -1,4 +1,4 @@
-def count_vowels_consonants(text):
+ def count_vowels_consonants(text):
     vowels = 'aeiouAEIOU'
     v = c = 0
     for ch in text:
