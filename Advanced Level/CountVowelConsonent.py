@@ -9,4 +9,4 @@ def count_vowels_consonants(text):
                 c += 1
     print("Vowels:", v, "| Consonants:", c)
 
-count_vowels_consonants("Python Programming")
+count_vowels_consonants("python Programming")
